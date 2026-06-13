@@ -82,3 +82,7 @@ both the GUI and the CLI.
 
 Binaural beats only work when each ear hears its own channel — always listen with
 **stereo headphones**, not speakers.
+
+
+
+![alt text](image.png)
